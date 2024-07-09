@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/addresses/38400000"
+  },
+  "response": {
+    "status": 200,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "address.json"
+  }
+}
